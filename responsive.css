@@ -1,0 +1,781 @@
+@media (min-width: 1800px) {
+  .navigation {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .navigation {
+    height: 10rem;
+  }
+
+  .nav-el {
+    font-size: 2rem;
+  }
+
+  .logo {
+    width: 18rem;
+    height: 4rem;
+  }
+
+  .btn-book {
+    font-size: 2.5rem;
+    padding: 1rem 1.5rem 1rem 1.5rem;
+  }
+
+  .section-text {
+    width: 80%;
+  }
+
+  .heading {
+    font-size: 5rem;
+  }
+
+  .description {
+    font-size: 3rem;
+  }
+
+  .section-title {
+    font-size: 4rem;
+  }
+
+  .section-desc {
+    font-size: 3rem;
+  }
+
+  /* //////// */
+
+  .benefit {
+    width: 50%;
+  }
+
+  .ben-icon {
+    font-size: 5rem;
+  }
+
+  .ben-desc {
+    font-size: 2.5rem;
+  }
+
+  /* //////////// */
+
+  .content-grow h2 {
+    font-size: 5rem;
+  }
+
+  /* ////////////// */
+
+  .studies {
+    width: 60%;
+  }
+
+  .stu-img {
+    width: 40rem;
+  }
+
+  /* ///////// */
+
+  .questions-box {
+    width: 40%;
+  }
+
+  .faq {
+    font-size: 2.75rem;
+    padding: 3rem;
+  }
+
+  .button {
+    font-size: 3rem;
+  }
+
+  .answer {
+    font-size: 2.25rem;
+  }
+
+  /* ///////////// */
+
+  .section-book {
+    padding: 20rem;
+  }
+
+  .calendly-inline-widget {
+    height: 100rem;
+  }
+}
+
+@media (max-width: 2000px) {
+  .navigation {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 1800px) {
+  .navigation {
+    height: 10rem;
+  }
+
+  .nav-el {
+    font-size: 2rem;
+  }
+
+  .logo {
+    width: 18rem;
+    height: 4rem;
+  }
+
+  .btn-book {
+    font-size: 2.5rem;
+    padding: 1rem 1.5rem 1rem 1.5rem;
+  }
+
+  .heading {
+    font-size: 4.75rem;
+  }
+
+  .description {
+    font-size: 2.75rem;
+  }
+
+  .section-title {
+    font-size: 4rem;
+  }
+
+  .section-desc {
+    font-size: 3rem;
+  }
+
+  .benefit {
+    width: 70%;
+  }
+
+  .ben-icon {
+    font-size: 5rem;
+  }
+
+  .ben-desc {
+    font-size: 2.5rem;
+  }
+
+  .studies {
+    width: 70%;
+  }
+
+  .stu-img {
+    width: 40rem;
+  }
+
+  .questions-box {
+    width: 65%;
+  }
+
+  .faq {
+    font-size: 2.75rem;
+    padding: 3rem;
+  }
+
+  .button {
+    font-size: 3rem;
+  }
+
+  .answer {
+    font-size: 2.25rem;
+  }
+
+  .section-book {
+    padding: 5rem;
+    padding-left: auto;
+    padding-right: auto;
+  }
+}
+
+@media (max-width: 1440px) {
+  .navigation {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .nav-el {
+    font-size: 1.75rem;
+  }
+
+  .logo {
+    width: 15rem;
+    height: 3.5rem;
+  }
+
+  .section-text {
+    width: 90%;
+  }
+
+  .heading {
+    font-size: 4.5rem;
+  }
+
+  .description {
+    font-size: 2.5rem;
+  }
+
+  .section-title {
+    font-size: 3.75rem;
+  }
+
+  .section-desc {
+    font-size: 2.75rem;
+  }
+
+  .benefit {
+    width: 80%;
+  }
+
+  .ben-icon {
+    font-size: 4.75rem;
+  }
+
+  .ben-desc {
+    font-size: 2.25rem;
+  }
+
+  .studies {
+    width: 80%;
+  }
+
+  .stu-img {
+    width: 35rem;
+  }
+
+  .section-steps {
+    padding: 2rem;
+  }
+
+  .step-title {
+    font-size: 1.75rem;
+  }
+
+  .step-desc {
+    font-size: 1.5rem;
+  }
+
+  .steps-box {
+    gap: 2rem;
+  }
+
+  .step {
+    width: 35rem;
+    height: 20rem;
+  }
+
+  .questions-box {
+    width: 80%;
+  }
+
+  .faq {
+    font-size: 2.5rem;
+    padding: 3rem;
+  }
+}
+
+@media (max-width: 1300px) {
+  .navigation {
+    width: 95%;
+  }
+
+  .navigation {
+    height: 8rem;
+  }
+
+  .nav-el {
+    font-size: 1.75rem;
+  }
+
+  .logo {
+    width: 15rem;
+    height: 3.5rem;
+  }
+
+  .btn-book {
+    font-size: 2rem;
+  }
+
+  .section-text {
+    width: 95%;
+  }
+
+  .heading {
+    font-size: 4.5rem;
+  }
+
+  .description {
+    font-size: 2.5rem;
+  }
+
+  .section-title {
+    font-size: 3.75rem;
+  }
+
+  .section-desc {
+    font-size: 2.75rem;
+  }
+
+  /* //////// */
+
+  .benefit {
+    width: 80%;
+  }
+
+  .ben-icon {
+    font-size: 4.75rem;
+  }
+
+  .ben-desc {
+    font-size: 2.25rem;
+  }
+
+  /* //////////// */
+
+  .content-grow h2 {
+    font-size: 4rem;
+  }
+
+  /* ////////////// */
+
+  .studies {
+    width: 90%;
+  }
+
+  .stu-img {
+    width: 35rem;
+  }
+
+  .step {
+    width: 35rem;
+    height: 25rem;
+  }
+
+  /* ///////// */
+
+  .questions-box {
+    width: 80%;
+  }
+
+  .faq {
+    font-size: 2.25rem;
+    padding: 2.5rem;
+  }
+
+  .button {
+    font-size: 3rem;
+  }
+
+  .answer {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .navigation {
+    width: 100%;
+  }
+
+  .nav-el {
+    font-size: 1.5rem;
+  }
+
+  .logo {
+    width: 13rem;
+    height: 3rem;
+  }
+
+  .btn-book {
+    font-size: 1.75rem;
+  }
+
+  .section-text {
+    width: 100%;
+  }
+
+  .section-home {
+    padding-top: 15rem;
+  }
+
+  .heading {
+    font-size: 3.75rem;
+  }
+
+  .description {
+    font-size: 2rem;
+  }
+
+  .section-title {
+    font-size: 3.5rem;
+  }
+
+  .section-desc {
+    font-size: 2.5rem;
+  }
+
+  /* //////// */
+
+  .benefit {
+    width: 100%;
+  }
+
+  .ben-icon {
+    font-size: 4.5rem;
+  }
+
+  .ben-desc {
+    font-size: 2rem;
+  }
+
+  /* //////////// */
+
+  .content-grow h2 {
+    font-size: 3rem;
+  }
+
+  /* ////////////// */
+
+  .studies {
+    width: 100%;
+  }
+
+  .stu-img {
+    width: 30rem;
+  }
+
+  .stu-name {
+    font-size: 2.75rem;
+  }
+
+  .stu-text {
+    font-size: 1.75rem;
+  }
+
+  /* ///////// */
+
+  .step {
+    width: 25rem;
+    height: 30rem;
+  }
+
+  /* ///////// */
+
+  .questions-box {
+    width: 90%;
+  }
+
+  .faq {
+    font-size: 2rem;
+  }
+
+  .button {
+    font-size: 2.75rem;
+  }
+
+  .answer {
+    font-size: 1.75rem;
+  }
+
+  .calendly-inline-widget {
+    width: 100%;
+    height: 100rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .nav-el {
+    margin: 0.25rem;
+  }
+
+  .logo {
+    width: 12rem;
+    height: 3rem;
+  }
+
+  .btn-book {
+    font-size: 1.5rem;
+  }
+
+  .section {
+    padding: 5rem;
+  }
+
+  .section-home {
+    padding-top: 12rem;
+  }
+
+  .heading {
+    font-size: 3rem;
+  }
+
+  .description {
+    font-size: 2rem;
+  }
+
+  .section-title {
+    font-size: 3rem;
+  }
+
+  .section-desc {
+    font-size: 2.25rem;
+  }
+
+  .ben-icon {
+    font-size: 4.25rem;
+  }
+
+  .ben-desc {
+    font-size: 1.75rem;
+  }
+
+  .stu-img {
+    width: 25rem;
+  }
+
+  .stu-name {
+    font-size: 2.25rem;
+  }
+
+  .stu-text {
+    font-size: 1.5rem;
+  }
+
+  .step {
+    width: 25rem;
+    height: 35rem;
+  }
+
+  .faq {
+    font-size: 1.75rem;
+  }
+
+  .button {
+    font-size: 2.5rem;
+  }
+
+  .answer {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .book-nav {
+    display: none;
+  }
+
+  .btn-mobile-nav {
+    display: block;
+  }
+
+  .main-nav {
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    visibility: none;
+    transition: all 0.5s;
+  }
+
+  .nav-open .main-nav {
+    opacity: 1;
+    pointer-events: auto;
+    visibility: visible;
+  }
+
+  .nav-open .btn-mobile[name="close-outline"] {
+    display: inline-block;
+  }
+
+  .nav-open .btn-mobile[name="menu-outline"] {
+    display: none;
+  }
+
+  .nav-list {
+    flex-direction: column;
+    gap: 2rem;
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .mobile {
+    visibility: hidden;
+  }
+
+  .vid {
+    width: 45rem;
+    height: 30rem;
+  }
+
+  .btn-book {
+    font-size: 2rem;
+    padding: 1rem 2rem 1rem 2rem;
+  }
+
+  .content-grow h2 {
+    font-size: 2.25rem;
+  }
+
+  .studies {
+    width: 70%;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .studies2 {
+    flex-direction: column-reverse;
+  }
+
+  .stu-name {
+    font-size: 2.25rem;
+  }
+
+  .stu-text {
+    font-size: 1.75rem;
+  }
+
+  .stu-img {
+    width: 100%;
+  }
+
+  .steps-box {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+  }
+
+  .step {
+    width: 20rem;
+    height: 30rem;
+    padding: 2rem;
+  }
+
+  .step-title {
+    font-size: 2rem;
+  }
+
+  .step-desc {
+    font-size: 1.5rem;
+  }
+
+  .testimonials {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .test-vid {
+    width: 25rem;
+    height: 20rem;
+  }
+
+  .questions-box {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .heading {
+    font-size: 2.25rem;
+  }
+
+  .description {
+    font-size: 1.25rem;
+  }
+
+  .section-title {
+    font-size: 3rem;
+  }
+
+  .section-desc {
+    font-size: 2.25rem;
+    margin-bottom: 3rem;
+  }
+
+  .vid {
+    width: 30rem;
+    height: 25rem;
+  }
+
+  .section-title {
+    font-size: 2.5rem;
+  }
+
+  .section-desc {
+    font-size: 2rem;
+  }
+
+  .section {
+    padding: 2rem;
+  }
+
+  .section-home {
+    padding-top: 10rem;
+  }
+
+  .benefit {
+    width: 100%;
+    padding: 4rem;
+  }
+
+  .ben-icon {
+    font-size: 3.5rem;
+  }
+
+  .ben-title {
+    font-size: 2rem;
+  }
+
+  .ben-desc {
+    font-size: 1.5rem;
+  }
+
+  .section-grow {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+
+  .content-grow h2 {
+    font-size: 1.25rem;
+  }
+
+  .studies-box {
+    margin-top: 6rem;
+  }
+
+  .studies {
+    width: 90%;
+  }
+
+  .stu-text {
+    font-size: 1.5rem;
+  }
+
+  .steps-box {
+    margin-top: 6rem;
+  }
+
+  .faq {
+    padding: 1rem;
+    font-size: 1.25rem;
+  }
+
+  .button {
+    font-size: 1.5rem;
+  }
+
+  .answer {
+    margin-top: 2rem;
+    font-size: 1.25rem;
+  }
+}
